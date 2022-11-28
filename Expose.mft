@@ -1,0 +1,3 @@
+Main-Class: com.shanebow.tools.Expose._Expose
+Class-Path: _sbcommon.jar _filetree.jar SpeedJG.jar . 
+
